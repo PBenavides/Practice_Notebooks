@@ -1,4 +1,4 @@
-# Kaggle_competitions
+# Notebooks
 
 By now I actively learning ML and improving my Python skills. Here are the notebooks that I developed for those purposes.
 
