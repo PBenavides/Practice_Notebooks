@@ -6,7 +6,7 @@ class MLP(nn.Module):
     Donde i,u,v,o son los números de neuronas de 
     entrada y salida que tendrá mi red.
     """
-    super(MLP, self).__init__()
+    super().__init__()
     self.relu_layer = nn.ReLU()
     self.dense_1 = nn.Linear(i, u)
     self.b1 = nn.BatchNorm1d(20)
